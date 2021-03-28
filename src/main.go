@@ -54,7 +54,7 @@ func main() {
 	//Incremental
 	x++
 	fmt.Println("Incremental: ", x)
-	//Decremental
+	//Decremental1
 	x--
 	fmt.Println("Decremental: ", x)
 
